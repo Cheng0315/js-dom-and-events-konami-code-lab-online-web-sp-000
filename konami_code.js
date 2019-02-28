@@ -24,3 +24,5 @@ function init(e) {
     }
   }
 }
+
+init();
